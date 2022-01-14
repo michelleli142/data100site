@@ -14,8 +14,8 @@ author: Michelle
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Discussion Slides: "Discussion Slides"
-  Walkthrough Videos: "Walkthrough Videos"
+  Discussion Slides: "discussionslides"
+  Walkthrough Videos: "walkthroughvideos"
   Resources: "Resources"
 
 # --- Logo --- #
