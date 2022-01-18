@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  <font size="1"> Walkthrough Videos </font> 
+title: Walkthrough Videos 
 subtitle: Updated weekly after discussions
 ---
 
