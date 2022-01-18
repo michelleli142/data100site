@@ -16,7 +16,7 @@ author: Michelle
 navbar-links:
   Discussion Slides: "discussionslides"
   Walkthrough Videos: "walkthroughvideos"
-  Resources: "Resources"
+  Resources: "resources"
 
 # --- Logo --- #
 
@@ -40,7 +40,7 @@ social-network-links:
   email: "mko357@berkeley.edu"
 # rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  patreon: DeanAttali
-  youtube: "https://www.youtube.com/playlist?list=PLo25jKecmpepcOrZ9dELDOwAkPHfEtC3y"
+# youtube: "https://www.youtube.com/playlist?list=PLo25jKecmpepcOrZ9dELDOwAkPHfEtC3y"
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
