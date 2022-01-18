@@ -4,7 +4,7 @@ title: Walkthrough Videos
 subtitle: Updated weekly after discussions
 ---
 
-[![Introduction](https://www.w3resource.com/w3r_images/linear-algebra-image.svg)](https://youtu.be/Z9gJpfaKb1s "Probability")
+[![Introduction](https://www.w3resource.com/w3r_images/linear-algebra-image.svg) width="200"](https://youtu.be/Z9gJpfaKb1s "Probability")
 <img src="https://www.w3resource.com/w3r_images/linear-algebra-image.svg" alt="Introduction" width="200"/>
 
 [![Probability](https://dr282zn36sxxg.cloudfront.net/datastreams/f-d%3A377bbe295a45e3297905f2e4c08feb9acb6e7b5e7d5b0c8622072842%2BCOVER_PAGE%2BCOVER_PAGE.1)](https://youtu.be/Z9gJpfaKb1s "Probability")
