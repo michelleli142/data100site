@@ -1,5 +1,5 @@
 ---
 layout: page
-title: <span style="font-size:4em;">Discussion Slides</span>
+title: Discussion Slides
 subtitle: Updated weekly after discussions
 ---
