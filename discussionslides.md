@@ -9,4 +9,4 @@ subtitle: Updated weekly after discussions
 
 [Data100-Sp22-Disc2](https://github.com/michelleli142/michelleli142.github.io/files/7976158/Data100.Sp22.Disc.2.pdf)
 
-[Data100-Sp22-Disc4] 
+[Data100-Sp22-Disc4] (https://github.com/michelleli142/michelleli142.github.io/files/7976158/Data100.Sp22.Disc.4.pdf)
