@@ -13,4 +13,3 @@ subtitle: Updated weekly after discussions
 
 [Data100-Sp22-Disc5](https://github.com/michelleli142/michelleli142.github.io/blob/master/Data100-Sp22-Disc-5%20(1).pdf)
 
-[Data100-Sp22-Disc6](https://github.com/michelleli142/michelleli142.github.io/blob/master/data100disc6annotated.pdf)
