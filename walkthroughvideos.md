@@ -9,3 +9,5 @@ subtitle: Updated weekly after discussions
 [Data100-Sp22-Disc3-Video](https://www.youtube.com/watch?v=z5n-aXSa4Fk)
 
 [Data100-Sp22-Disc4-Video](https://www.youtube.com/watch?v=OKm2ZNb_JMQ)
+
+[Data100-Sp22-Disc6-Video](https://www.youtube.com/watch?v=xaPAQeTtH7U)
