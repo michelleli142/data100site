@@ -20,5 +20,5 @@ subtitle: Updated weekly after discussions
 
 [Data100-Sp22-Disc9](https://github.com/michelleli142/michelleli142.github.io/blob/master/Data100-Sp22-Disc-9.pdf)
 
-[Data100-Sp22-Disc10](https://github.com/michelleli142/michelleli142.github.io/blob/master/Data100-Sp22-Disc-10.pdf)
+[Data100-Sp22-Disc10](https://github.com/michelleli142/michelleli142.github.io/blob/master/disc10_slides.pdf)
 
