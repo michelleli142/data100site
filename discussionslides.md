@@ -4,5 +4,5 @@ title: Discussion Slides
 subtitle: Updated weekly after discussions
 ---
 
-[Data100-Su22-Disc1](https://github.com/michelleli142/michelleli142.github.io/blob/master/Data100%20Su22%20Disc1.pdf)
+[Data100-Su22-Disc1](https://drive.google.com/drive/u/0/folders/1vJob-L38ePnGoKkECUJuA9QygWTZzQ1q)
 
